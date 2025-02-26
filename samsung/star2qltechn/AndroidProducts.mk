@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_star2qltechn.mk
+    $(LOCAL_DIR)/halium_star2qltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-	lineage_star2qltechn-user \
-	lineage_star2qltechn-userdebug \
-	lineage_star2qltechn-eng
+	halium_star2qltechn-user \
+	halium_star2qltechn-userdebug \
+	halium_star2qltechn-eng
